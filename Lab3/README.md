@@ -1,4 +1,4 @@
-# BÁO CÁO KẾT QUẢ THỰC HÀNH - LAB 3
+#  LAB 3
 
 ## 1. Thông tin sinh viên
 * **Họ và tên:** Nguyễn Trầm Hương
