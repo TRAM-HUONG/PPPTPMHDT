@@ -7,14 +7,13 @@
 
 ## 📁 Cấu trúc thư mục / Danh mục tệp tin
 
-| Tên tệp tin |  Mô tả chi tiết |
-| :--- | :--- | :--- |
+| Tên tệp tin | Mô tả chi tiết |
+| :--- | :--- |
 | `1250080066_NGuyenTramHuong_Lab4.docx` | Báo cáo chi tiết bài tập Lab 4 (nội dung tổng hợp, giải thích). |
-| `Code_UML TUẦN TỰ.docx` |  Mã nguồn các sơ đồ tuần tự (Sequence Diagram). |
-| `LAB4.drawio` | DRAWIO File  Sơ đồ thiết kế hệ thống (UML, Use Case, Sequence Diagram,Class...). |
-| `QuanLyEShopping.zip`| Mã nguồn chương trình dự án Quản lý E-Shopping. |
-| `SQL_LAB4.sql` |  cơ sở dữ liệu và truy vấn SQL cho bài Lab 4. |
-
+| `Code_UML TUẦN TỰ.docx` | Mã nguồn các sơ đồ tuần tự (Sequence Diagram). |
+| `LAB4.drawio` | DRAWIO File Sơ đồ thiết kế hệ thống (UML, Use Case, Sequence Diagram, Class...). |
+| `QuanLyEShopping.zip` | Mã nguồn chương trình dự án Quản lý E-Shopping. |
+| `SQL_LAB4.sql` | Cơ sở dữ liệu và truy vấn SQL cho bài Lab 4. |
 ---
 
 ## 🛠 Hướng dẫn sử dụng & Mở tệp
