@@ -1,11 +1,11 @@
-# BÀI NỘP LAB 4 - QUẢN LÝ E-SHOPPING
+# BÀI NỘP LAB 4 
 
 **Họ và tên:** Nguyễn Trâm Hương  
 **Mã số sinh viên:** 1250080066  
 
 ---
 
-## 📁 Cấu trúc thư mục / Danh mục tệp tin
+## Cấu trúc thư mục / Danh mục tệp tin
 
 | Tên tệp tin | Mô tả chi tiết |
 | :--- | :--- |
@@ -16,7 +16,7 @@
 | `SQL_LAB4.sql` | Cơ sở dữ liệu và truy vấn SQL cho bài Lab 4. |
 ---
 
-## 🛠 Hướng dẫn sử dụng & Mở tệp
+##  Hướng dẫn sử dụng & Mở tệp
 
 1. **Báo cáo & Tài liệu:**
    - Mở file `1250080066_NGuyenTramHuong_Lab4.docx` để xem báo cáo hoàn chỉnh.
