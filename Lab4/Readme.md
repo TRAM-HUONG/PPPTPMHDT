@@ -11,7 +11,7 @@
 | :--- | :--- |
 | `1250080066_NGuyenTramHuong_Lab4.docx` | Báo cáo chi tiết bài tập Lab 4 (nội dung tổng hợp, giải thích). |
 | `Code_UML TUẦN TỰ.docx` | Mã nguồn các sơ đồ tuần tự (Sequence Diagram). |
-| `LAB4.drawio` | DRAWIO File Sơ đồ thiết kế hệ thống (UML, Use Case, Sequence Diagram, Class...). |
+| `LAB4.drawio` | DRAWIO File Sơ đồ thiết kế hệ thống (UML, Use Case, Class...). |
 | `QuanLyEShopping.zip` | Mã nguồn chương trình dự án Quản lý E-Shopping. |
 | `SQL_LAB4.sql` | Cơ sở dữ liệu và truy vấn SQL cho bài Lab 4. |
 ---
